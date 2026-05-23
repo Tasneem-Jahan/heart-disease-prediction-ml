@@ -50,8 +50,8 @@ The dataset used is a processed version of a publicly available heart disease da
 
 ## Results
 
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/model-comparison.png)
 
-![Confusion Matrix](images/svm_confusion_matrix.png)
+![Confusion Matrix](images/svm-confusion-matrix.png)
 
-![SVM Metrics](images/svm_performance_metrics.png)
+![SVM Metrics](images/svm-performance-metrics.png)
