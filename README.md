@@ -47,3 +47,11 @@ python heart_disease_prediction.py
 ## Dataset
 
 The dataset used is a processed version of a publicly available heart disease dataset commonly used for machine learning research.
+
+## Results
+
+![Model Comparison](images/model_comparison.png)
+
+![Confusion Matrix](images/svm_confusion_matrix.png)
+
+![SVM Metrics](images/svm_performance_metrics.png)
