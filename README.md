@@ -44,7 +44,6 @@ This project predicts heart disease using multiple machine learning algorithms a
 pip install -r requirements.txt
 python heart_disease_prediction.py
 ```
-
 ## Dataset
 
 The dataset used is a processed version of a publicly available heart disease dataset commonly used for machine learning research.
